@@ -1,0 +1,6 @@
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-05-05 00:38:58"}
+{"level":"error","message":"-----------------Error fetching projects, message: role \"postgres\" does not exist-------------------","timestamp":"2024-05-05 00:38:58"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-05-05 00:39:25"}
+{"level":"error","message":"-----------------Error fetching projects, message: role \"postgres\" does not exist-------------------","timestamp":"2024-05-05 00:39:25"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-05-05 08:41:56"}
+{"level":"error","message":"-----------------Error fetching projects, message: role \"postgres\" does not exist-------------------","timestamp":"2024-05-05 08:41:56"}

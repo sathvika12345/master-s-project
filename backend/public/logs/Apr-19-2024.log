@@ -1,0 +1,1379 @@
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:14:16"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:14:16"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:14:16"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:14:16"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:14:23"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:14:23"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:14:23"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 08:14:25"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 08:14:25"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 08:14:26"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 08:16:57"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 08:16:57"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 08:16:57"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:16:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:16:58"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:17:00"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:17:00"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:17:00"}
+{"level":"info","message":"---------------------Route accessed: //project/like/15/6--------------------------","timestamp":"2024-04-19 08:19:40"}
+{"level":"info","message":{"projectId":"15","userId":"6"},"timestamp":"2024-04-19 08:19:40"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 08:19:41"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:21:15"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:21:15"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:21:15"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:21:21"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:21:21"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:21:21"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:21:22"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:21:22"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:21:22"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:21:35"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:21:35"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:21:35"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:21:40"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:21:40"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:21:40"}
+{"level":"info","message":"---------------------Route accessed: //project/like/14/6--------------------------","timestamp":"2024-04-19 08:21:43"}
+{"level":"info","message":{"projectId":"14","userId":"6"},"timestamp":"2024-04-19 08:21:43"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 08:21:43"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 08:22:15"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 08:22:15"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 08:22:16"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:22:16"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:22:16"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:22:18"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:22:18"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:22:18"}
+{"level":"info","message":"---------------------Route accessed: //project/like/13/6--------------------------","timestamp":"2024-04-19 08:22:21"}
+{"level":"info","message":{"projectId":"13","userId":"6"},"timestamp":"2024-04-19 08:22:21"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 08:22:21"}
+{"level":"info","message":"---------------------Route accessed: //project/like/14/6--------------------------","timestamp":"2024-04-19 08:22:23"}
+{"level":"info","message":{"projectId":"14","userId":"6"},"timestamp":"2024-04-19 08:22:23"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 08:22:23"}
+{"level":"info","message":"---------------------Route accessed: //project--------------------------","timestamp":"2024-04-19 08:22:36"}
+{"level":"info","message":{"abstractUrl":"https://my-bucket-pg.s3.amazonaws.com/dummy.pdf","createdAt":null,"dateOfSubmission":"2023-02-28T00:00:00Z","projectAssetUrl":"https://my-bucket-pg.s3.amazonaws.com/WhatsApp%20Image%202024-03-22%20at%2010.59.12%20PM.jpeg","projectDescription":"This is test 4","projectName":"Test 4","submittedBy":"uttam","userId":"6"},"timestamp":"2024-04-19 08:22:36"}
+{"level":"info","message":"-------------------Successfully Created the Project----------------------------","timestamp":"2024-04-19 08:22:36"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 08:22:39"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 08:22:39"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 08:22:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:22:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:22:39"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:22:41"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:22:41"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:22:41"}
+{"level":"info","message":"---------------------Route accessed: //project/like/16/6--------------------------","timestamp":"2024-04-19 08:22:43"}
+{"level":"info","message":{"projectId":"16","userId":"6"},"timestamp":"2024-04-19 08:22:43"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 08:22:43"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 08:23:30"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 08:23:30"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 08:23:30"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:23:30"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:23:30"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:23:31"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:23:31"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:23:31"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:25:47"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:25:47"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:25:47"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:25:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:25:59"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:26:01"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:26:01"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:26:01"}
+{"level":"info","message":"---------------------Route accessed: //project/like/16/6--------------------------","timestamp":"2024-04-19 08:26:13"}
+{"level":"info","message":{"projectId":"16","userId":"6"},"timestamp":"2024-04-19 08:26:13"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 08:26:13"}
+{"level":"info","message":"---------------------Route accessed: //project/like/13/6--------------------------","timestamp":"2024-04-19 08:26:13"}
+{"level":"info","message":{"projectId":"13","userId":"6"},"timestamp":"2024-04-19 08:26:13"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 08:26:13"}
+{"level":"info","message":"---------------------Route accessed: //project/like/15/6--------------------------","timestamp":"2024-04-19 08:26:14"}
+{"level":"info","message":{"projectId":"15","userId":"6"},"timestamp":"2024-04-19 08:26:14"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 08:26:14"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 08:33:53"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 08:33:59"}
+{"level":"info","message":"---------------------Route accessed: //project--------------------------","timestamp":"2024-04-19 08:33:59"}
+{"level":"info","message":{"abstractUrl":"https://my-bucket-pg.s3.amazonaws.com/cv.pdf","createdAt":null,"dateOfSubmission":"19-04-2024","projectAssetUrl":"https://my-bucket-pg.s3.amazonaws.com/Capture.PNG","projectDescription":"project 1 description","projectName":"project 1","submittedBy":"uttam","userId":"6"},"timestamp":"2024-04-19 08:33:59"}
+{"level":"info","message":"-------------------Successfully Created the Project----------------------------","timestamp":"2024-04-19 08:33:59"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 08:34:10"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 08:34:10"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 08:34:10"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 08:34:11"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 08:34:11"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 08:34:12"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 08:34:12"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 08:34:12"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:16:17"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:16:17"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:16:17"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:18:50"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:18:50"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:18:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:18:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:18:51"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:20:17"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:20:17"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:20:17"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:20:44"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:20:44"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:20:44"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:20:53"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:20:53"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:20:53"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:20:55"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:20:55"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:20:55"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 09:21:07"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:21:07"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:21:07"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 09:21:19"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 09:21:19"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:21:19"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:21:36"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:21:36"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:21:36"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:21:36"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:21:38"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:21:38"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:21:38"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 09:21:44"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:21:44"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:21:44"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:22:05"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:22:05"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:22:05"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:22:05"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:22:05"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:22:05"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:22:05"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:22:10"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:22:10"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:22:10"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 09:22:12"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:22:12"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:22:12"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:22:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:22:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:22:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:22:51"}
+{"level":"info","message":"---------------------Route accessed: //project/1/6--------------------------","timestamp":"2024-04-19 09:22:53"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-19 09:22:53"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:22:53"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:23:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:23:28"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:23:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:23:28"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:23:32"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:23:32"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:23:32"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:23:32"}
+{"level":"info","message":"---------------------Route accessed: //project/2/0--------------------------","timestamp":"2024-04-19 09:23:34"}
+{"level":"info","message":"--------------ProjectId:2----------------------------------","timestamp":"2024-04-19 09:23:34"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:23:34"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:23:57"}
+{"level":"info","message":{"password":"123456","userEmail":"teacher2@gmail.com"},"timestamp":"2024-04-19 09:23:57"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 09:23:57"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:24:07"}
+{"level":"info","message":{"password":"123456","userEmail":"testteacher@gmail.com"},"timestamp":"2024-04-19 09:24:07"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 09:24:08"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:24:22"}
+{"level":"info","message":{"password":"123","userEmail":"uttamlikhiya@gmail.com"},"timestamp":"2024-04-19 09:24:22"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:24:22"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:22"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:22"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:22"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:22"}
+{"level":"info","message":"---------------------Route accessed: //project/2/13--------------------------","timestamp":"2024-04-19 09:24:24"}
+{"level":"info","message":"--------------ProjectId:2----------------------------------","timestamp":"2024-04-19 09:24:24"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:24:24"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:28"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:28"}
+{"level":"info","message":"---------------------Route accessed: //project/17/13--------------------------","timestamp":"2024-04-19 09:24:41"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:24:41"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:24:41"}
+{"level":"info","message":"---------------------Route accessed: //project/17--------------------------","timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":"-------ProjectId: 17------------","timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":{"remark":"Project approvied","status":"APPROVED"},"timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":"-------------------Projects Status Updated Successfully----------------------------","timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:46"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:48"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:48"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:24:48"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:24:48"}
+{"level":"info","message":"---------------------Route accessed: //project/17/13--------------------------","timestamp":"2024-04-19 09:24:50"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:24:50"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:24:50"}
+{"level":"info","message":"---------------------Route accessed: //project/rate/17/13/5--------------------------","timestamp":"2024-04-19 09:24:53"}
+{"level":"info","message":{"projectId":"17","rating":"5","userId":"13"},"timestamp":"2024-04-19 09:24:53"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 09:24:53"}
+{"level":"info","message":"---------------------Route accessed: //project/like/17/13--------------------------","timestamp":"2024-04-19 09:25:27"}
+{"level":"info","message":{"projectId":"17","userId":"13"},"timestamp":"2024-04-19 09:25:27"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 09:25:27"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:27:00"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:27:00"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:27:00"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:27:00"}
+{"level":"info","message":"---------------------Route accessed: //project/17/13--------------------------","timestamp":"2024-04-19 09:27:09"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:27:09"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 09:27:09"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 09:27:09"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 09:27:09"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 09:27:09"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:32:42"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:32:42"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:32:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:32:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:32:42"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:33:13"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:33:13"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:33:14"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:33:14"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:33:14"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:33:16"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:33:16"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:33:16"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:33:57"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:33:57"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:33:57"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:34:00"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:34:00"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:34:00"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:34:27"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:34:27"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:34:27"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:34:40"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:34:40"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:34:40"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:35:23"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:35:23"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:35:23"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:35:26"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:35:26"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:35:26"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:35:40"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:35:40"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:35:40"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:35:43"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:35:43"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:35:43"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:35:44"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:35:44"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:35:44"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:36:20"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:36:20"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:36:20"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:36:33"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:36:33"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:36:33"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:37:24"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:37:24"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:37:24"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:37:44"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:37:44"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:37:45"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:37:45"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:37:45"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:37:51"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:37:51"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:37:51"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:38:19"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:38:19"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:38:19"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:38:26"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:38:26"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:38:26"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:38:28"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:38:28"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:38:28"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:38:40"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:38:40"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:38:40"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:38:47"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:38:47"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:38:47"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:38:53"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:38:53"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:38:53"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:39:00"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:39:01"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:39:01"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:39:08"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:39:08"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:39:08"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:39:12"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:39:12"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:39:12"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:39:17"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:39:17"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:39:17"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:39:35"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:39:35"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:39:35"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:40:00"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:40:00"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:40:00"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:40:13"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:40:13"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:40:13"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:41:33"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:41:33"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:41:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:41:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:41:33"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:41:36"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:41:36"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:41:36"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:41:49"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:41:49"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:41:49"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:42:11"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:42:11"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:42:11"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:42:19"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:42:19"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:42:19"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:42:32"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:42:32"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:42:32"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:42:36"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:42:36"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:42:36"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:42:44"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:42:44"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:42:44"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:42:48"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:42:48"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:42:48"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:42:53"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:42:53"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:42:53"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:43:07"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:43:07"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:43:07"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:43:33"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:43:33"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:43:33"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:43:45"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:43:45"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:43:45"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:43:49"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:43:49"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:43:49"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:44:22"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:44:22"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:44:22"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:44:23"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:44:23"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:44:23"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:44:37"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:44:37"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:44:37"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:44:56"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:44:56"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:44:56"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:45:05"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:45:05"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:45:05"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:45:11"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:45:11"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:45:11"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:45:42"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:45:42"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:45:42"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:45:43"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:45:43"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:45:43"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:45:58"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:45:58"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:45:58"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:46:11"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:46:11"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:46:11"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:46:18"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:46:18"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:46:18"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:46:23"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:46:23"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:46:23"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:46:47"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:46:47"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:46:47"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:46:47"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:46:47"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:46:50"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:46:50"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:46:50"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:46:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:46:51"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:46:52"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:46:52"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:46:52"}
+{"level":"info","message":"---------------------Route accessed: //project/like/17/6--------------------------","timestamp":"2024-04-19 09:49:18"}
+{"level":"info","message":{"projectId":"17","userId":"6"},"timestamp":"2024-04-19 09:49:18"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 09:49:18"}
+{"level":"info","message":"---------------------Route accessed: //project/like/15/6--------------------------","timestamp":"2024-04-19 09:49:20"}
+{"level":"info","message":{"projectId":"15","userId":"6"},"timestamp":"2024-04-19 09:49:20"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 09:49:20"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 09:51:00"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 09:51:00"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 09:51:00"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:51:01"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:51:01"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:51:03"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:51:03"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:51:03"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:51:15"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:51:15"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:51:15"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:51:16"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:51:16"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:51:16"}
+{"level":"info","message":"---------------------Route accessed: //project/like/17/6--------------------------","timestamp":"2024-04-19 09:51:19"}
+{"level":"info","message":{"projectId":"17","userId":"6"},"timestamp":"2024-04-19 09:51:19"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 09:51:19"}
+{"level":"info","message":"---------------------Route accessed: //project/like/15/6--------------------------","timestamp":"2024-04-19 09:51:21"}
+{"level":"info","message":{"projectId":"15","userId":"6"},"timestamp":"2024-04-19 09:51:21"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 09:51:21"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:51:31"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:51:31"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:51:31"}
+{"level":"info","message":"---------------------Route accessed: //project/rate/17/13/1--------------------------","timestamp":"2024-04-19 09:52:07"}
+{"level":"info","message":{"projectId":"17","rating":"1","userId":"13"},"timestamp":"2024-04-19 09:52:07"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 09:52:07"}
+{"level":"info","message":"---------------------Route accessed: //project/rate/17/13/5--------------------------","timestamp":"2024-04-19 09:52:10"}
+{"level":"info","message":{"projectId":"17","rating":"5","userId":"13"},"timestamp":"2024-04-19 09:52:10"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 09:52:10"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:53:11"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:53:11"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:53:11"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:53:14"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:53:14"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:53:14"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:53:17"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:53:17"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:53:17"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:53:26"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:53:26"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:53:26"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:53:33"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:53:33"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:53:33"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:53:35"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:53:35"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:53:35"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:53:43"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:53:43"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:53:43"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:54:01"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:54:01"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:54:01"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:54:15"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:54:15"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:54:15"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:54:16"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:54:16"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:54:16"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:54:30"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:54:30"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:54:30"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:54:40"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:54:40"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:54:40"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:54:40"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:55:03"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:55:03"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:55:03"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 09:56:39"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 09:56:45"}
+{"level":"info","message":"---------------------Route accessed: //project--------------------------","timestamp":"2024-04-19 09:56:46"}
+{"level":"info","message":{"abstractUrl":"https://my-bucket-pg.s3.amazonaws.com/cv.pdf","createdAt":null,"dateOfSubmission":"19-04-2024","projectAssetUrl":"https://my-bucket-pg.s3.amazonaws.com/Capture.PNG","projectDescription":"This is Test Project 3","projectName":"Test Project 3","submittedBy":"uttam","userId":"6"},"timestamp":"2024-04-19 09:56:46"}
+{"level":"info","message":"-------------------Successfully Created the Project----------------------------","timestamp":"2024-04-19 09:56:46"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:56:50"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:56:50"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:56:50"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:56:50"}
+{"level":"info","message":"---------------------Route accessed: //project/18--------------------------","timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":"-------ProjectId: 18------------","timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":{"remark":"","status":"APPROVED"},"timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":"-------------------Projects Status Updated Successfully----------------------------","timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:56:55"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:56:58"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:56:58"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:56:58"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 09:57:04"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:57:04"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:57:04"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:57:08"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:57:08"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:57:08"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:57:08"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 09:57:10"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:57:10"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:57:10"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 09:57:23"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 09:57:23"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:57:23"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 09:57:26"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:57:26"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:57:26"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 09:57:30"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 09:57:30"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:57:30"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:57:36"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:57:36"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:57:36"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:57:36"}
+{"level":"info","message":"---------------------Route accessed: //project/17/13--------------------------","timestamp":"2024-04-19 09:57:38"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 09:57:38"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 09:57:38"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 09:57:38"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 09:57:38"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 09:57:38"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 09:58:10"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 09:58:10"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 09:58:10"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 09:59:18"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 09:59:24"}
+{"level":"info","message":"---------------------Route accessed: //project--------------------------","timestamp":"2024-04-19 09:59:24"}
+{"level":"info","message":{"abstractUrl":"https://my-bucket-pg.s3.amazonaws.com/cv.pdf","createdAt":null,"dateOfSubmission":"19-04-2024","projectAssetUrl":"https://my-bucket-pg.s3.amazonaws.com/Capture.PNG","projectDescription":"This is test Project 4","projectName":"Test Project 4","submittedBy":"uttam","userId":"6"},"timestamp":"2024-04-19 09:59:24"}
+{"level":"info","message":"-------------------Successfully Created the Project----------------------------","timestamp":"2024-04-19 09:59:24"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:28"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:28"}
+{"level":"info","message":"---------------------Route accessed: //project/19--------------------------","timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":"-------ProjectId: 19------------","timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":{"remark":"","status":"APPROVED"},"timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":"-------------------Projects Status Updated Successfully----------------------------","timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:30"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:32"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:32"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:32"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:32"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:37"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:37"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:37"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:37"}
+{"level":"info","message":"---------------------Route accessed: //project/19/13--------------------------","timestamp":"2024-04-19 09:59:43"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 09:59:43"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:59:43"}
+{"level":"info","message":"---------------------Route accessed: //project/18/13--------------------------","timestamp":"2024-04-19 09:59:53"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 09:59:53"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 09:59:53"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:58"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 09:59:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 09:59:58"}
+{"level":"info","message":"---------------------Route accessed: //project/19/13--------------------------","timestamp":"2024-04-19 10:00:02"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 10:00:02"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:00:02"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 10:00:06"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 10:00:06"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 10:00:06"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 10:00:06"}
+{"level":"info","message":"---------------------Route accessed: //project/19/6--------------------------","timestamp":"2024-04-19 10:00:09"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 10:00:09"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:00:09"}
+{"level":"info","message":"---------------------Route accessed: //project/18/13--------------------------","timestamp":"2024-04-19 10:00:21"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 10:00:21"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:00:21"}
+{"level":"info","message":"---------------------Route accessed: //project/rate/18/13/5--------------------------","timestamp":"2024-04-19 10:00:37"}
+{"level":"info","message":{"projectId":"18","rating":"5","userId":"13"},"timestamp":"2024-04-19 10:00:37"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 10:00:37"}
+{"level":"info","message":"---------------------Route accessed: //project/like/18/13--------------------------","timestamp":"2024-04-19 10:00:39"}
+{"level":"info","message":{"projectId":"18","userId":"13"},"timestamp":"2024-04-19 10:00:39"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 10:00:39"}
+{"level":"info","message":"---------------------Route accessed: //project/19/13--------------------------","timestamp":"2024-04-19 10:00:41"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 10:00:41"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:00:41"}
+{"level":"info","message":"---------------------Route accessed: //project/like/19/13--------------------------","timestamp":"2024-04-19 10:00:43"}
+{"level":"info","message":{"projectId":"19","userId":"13"},"timestamp":"2024-04-19 10:00:43"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 10:00:43"}
+{"level":"info","message":"---------------------Route accessed: //project/18/13--------------------------","timestamp":"2024-04-19 10:00:44"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 10:00:44"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 10:00:44"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 10:00:44"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 10:00:44"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 10:00:44"}
+{"level":"info","message":"---------------------Route accessed: //project/like/18/13--------------------------","timestamp":"2024-04-19 10:00:47"}
+{"level":"info","message":{"projectId":"18","userId":"13"},"timestamp":"2024-04-19 10:00:47"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 10:00:47"}
+{"level":"info","message":"---------------------Route accessed: //project/19/13--------------------------","timestamp":"2024-04-19 10:00:48"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 10:00:48"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:00:48"}
+{"level":"info","message":"---------------------Route accessed: //project/like/19/13--------------------------","timestamp":"2024-04-19 10:00:50"}
+{"level":"info","message":{"projectId":"19","userId":"13"},"timestamp":"2024-04-19 10:00:50"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 10:00:50"}
+{"level":"info","message":"---------------------Route accessed: //project/like/19/13--------------------------","timestamp":"2024-04-19 10:00:52"}
+{"level":"info","message":{"projectId":"19","userId":"13"},"timestamp":"2024-04-19 10:00:52"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 10:00:52"}
+{"level":"info","message":"---------------------Route accessed: //project/18/13--------------------------","timestamp":"2024-04-19 10:00:54"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 10:00:54"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 10:00:54"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 10:00:54"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 10:00:54"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 10:00:54"}
+{"level":"info","message":"---------------------Route accessed: //project/like/18/13--------------------------","timestamp":"2024-04-19 10:00:56"}
+{"level":"info","message":{"projectId":"18","userId":"13"},"timestamp":"2024-04-19 10:00:56"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 10:00:56"}
+{"level":"info","message":"---------------------Route accessed: //project/19/13--------------------------","timestamp":"2024-04-19 10:01:14"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 10:01:14"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:01:14"}
+{"level":"info","message":"---------------------Route accessed: //project/like/19/13--------------------------","timestamp":"2024-04-19 10:01:17"}
+{"level":"info","message":{"projectId":"19","userId":"13"},"timestamp":"2024-04-19 10:01:17"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 10:01:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 10:01:19"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 10:01:19"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 10:01:19"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 10:01:19"}
+{"level":"info","message":"---------------------Route accessed: //project/17/13--------------------------","timestamp":"2024-04-19 10:01:24"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 10:01:24"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 10:01:24"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 10:01:24"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 10:01:24"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 10:01:24"}
+{"level":"info","message":"---------------------Route accessed: //project/14/13--------------------------","timestamp":"2024-04-19 10:01:28"}
+{"level":"info","message":"--------------ProjectId:14----------------------------------","timestamp":"2024-04-19 10:01:28"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:01:28"}
+{"level":"info","message":"---------------------Route accessed: //project/19/13--------------------------","timestamp":"2024-04-19 10:01:31"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 10:01:31"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:01:31"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 10:03:20"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 10:03:20"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 10:03:20"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 10:03:20"}
+{"level":"info","message":"---------------------Route accessed: //project/2/13--------------------------","timestamp":"2024-04-19 10:03:24"}
+{"level":"info","message":"--------------ProjectId:2----------------------------------","timestamp":"2024-04-19 10:03:24"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:03:24"}
+{"level":"info","message":"---------------------Route accessed: //project/18/13--------------------------","timestamp":"2024-04-19 10:03:28"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 10:03:28"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 10:03:28"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 10:03:28"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 10:03:28"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 10:03:28"}
+{"level":"info","message":"---------------------Route accessed: //project/17/13--------------------------","timestamp":"2024-04-19 10:03:31"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 10:03:31"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 10:03:31"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 10:03:31"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 10:03:31"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 10:03:31"}
+{"level":"info","message":"---------------------Route accessed: //project/19/13--------------------------","timestamp":"2024-04-19 10:03:35"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 10:03:35"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 10:03:35"}
+{"level":"info","message":"---------------------Route accessed: //project/18/13--------------------------","timestamp":"2024-04-19 10:03:38"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 10:03:38"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 10:03:38"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 10:03:38"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 10:03:38"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 10:03:38"}
+{"level":"info","message":"---------------------Route accessed: //project/17/13--------------------------","timestamp":"2024-04-19 10:03:55"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 10:03:55"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 10:03:55"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 10:03:55"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 10:03:55"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 10:03:55"}
+{"level":"info","message":"---------------------Route accessed: //project/like/13/6--------------------------","timestamp":"2024-04-19 10:04:10"}
+{"level":"info","message":{"projectId":"13","userId":"6"},"timestamp":"2024-04-19 10:04:10"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 10:04:10"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 10:04:33"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 10:04:33"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 10:04:34"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 10:04:34"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 10:04:34"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 10:04:36"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 10:04:36"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 10:04:36"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:30:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:30:28"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:30:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:30:28"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:30:34"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:30:34"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 11:30:39"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 11:30:39"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 11:30:39"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 11:31:17"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-19 11:31:19"}
+{"level":"info","message":"---------------------Route accessed: //project--------------------------","timestamp":"2024-04-19 11:31:20"}
+{"level":"info","message":{"abstractUrl":"https://my-bucket-pg.s3.amazonaws.com/cv.pdf","createdAt":null,"dateOfSubmission":"19-04-2024","projectAssetUrl":"https://my-bucket-pg.s3.amazonaws.com/stock-footage-old-style-video-countdown-counter-with-rounded-corners-for-to-on-a-black-background%20-%20Copy.mp4","projectDescription":"This is Video 1","projectName":"Video1","submittedBy":"uttam","userId":"6"},"timestamp":"2024-04-19 11:31:20"}
+{"level":"info","message":"-------------------Successfully Created the Project----------------------------","timestamp":"2024-04-19 11:31:20"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 11:31:29"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 11:31:29"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 11:31:29"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:31:56"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:31:56"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:31:56"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:31:56"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:32:18"}
+{"level":"info","message":{"password":"123456","userEmail":"uttamlikhiya2@gmail.com"},"timestamp":"2024-04-19 11:32:18"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:32:18"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:32:31"}
+{"level":"info","message":{"password":"123456","userEmail":"uttamlikhiya@gmail.com"},"timestamp":"2024-04-19 11:32:31"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:32:31"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:32:46"}
+{"level":"info","message":{"password":"123","userEmail":"teacher2@gmail.com"},"timestamp":"2024-04-19 11:32:46"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:32:46"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:32:57"}
+{"level":"info","message":{"password":"123456","userEmail":"teacher2@gmail.com"},"timestamp":"2024-04-19 11:32:57"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:32:57"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 11:33:11"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 11:33:11"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:33:11"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:33:18"}
+{"level":"info","message":{"password":"123456","userEmail":"uttamlikhiya2@gmail.com"},"timestamp":"2024-04-19 11:33:18"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:33:18"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:33:32"}
+{"level":"info","message":{"password":"123456","userEmail":"teacher2@gmail.com"},"timestamp":"2024-04-19 11:33:32"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:33:32"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:33:51"}
+{"level":"info","message":{"password":"123","userEmail":"uttamT@gmail.com"},"timestamp":"2024-04-19 11:33:51"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:33:51"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:34:03"}
+{"level":"info","message":{"password":"123456","userEmail":"uttamlikhiya@gmail.com"},"timestamp":"2024-04-19 11:34:03"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:34:03"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:34:23"}
+{"level":"info","message":{"password":"123","userEmail":"teacher2@gmail.com"},"timestamp":"2024-04-19 11:34:23"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:34:23"}
+{"level":"info","message":"---------------------Route accessed: //user--------------------------","timestamp":"2024-04-19 11:35:39"}
+{"level":"info","message":{"confirmPassword":"userteacher","email":"userteacher@gmail.com","firstname":"user","lastname":"teacher","name":"userteacher","password":"userteacher","role":"reviewer","rollNo":"0987"},"timestamp":"2024-04-19 11:35:39"}
+{"level":"info","message":"---------------------New User Created Successfully---------------------------------------","timestamp":"2024-04-19 11:35:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:35:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:35:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:35:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:35:39"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:36:00"}
+{"level":"info","message":{"password":"userteacher","userEmail":"userteacher@gmail.com"},"timestamp":"2024-04-19 11:36:00"}
+{"level":"error","message":"---------------------Error Logging the User--Require Permission from admin for login---------------------------","timestamp":"2024-04-19 11:36:00"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 11:42:07"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 11:42:07"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 11:42:07"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:42:15"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:42:15"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:42:15"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:42:15"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:42:38"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 11:42:38"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 11:42:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:42:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:42:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:42:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:42:39"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:43:32"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 11:43:32"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 11:43:32"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:43:32"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:43:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:43:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:43:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:44:48"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:44:48"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:44:48"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:44:48"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:47:33"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 11:47:33"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 11:47:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:47:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:47:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:47:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:47:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:48:02"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:48:02"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:48:02"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:48:02"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:48:24"}
+{"level":"info","message":{"password":"123456","userEmail":"uttamlikhiya2@gmail.com"},"timestamp":"2024-04-19 11:48:24"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:48:24"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:48:42"}
+{"level":"info","message":{"password":"123456","userEmail":"teacher2@gmail.com"},"timestamp":"2024-04-19 11:48:42"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:48:42"}
+{"level":"info","message":"---------------------Route accessed: //user--------------------------","timestamp":"2024-04-19 11:49:10"}
+{"level":"info","message":{"confirmPassword":"admin","email":"admin@gmail.com","firstname":"admin","lastname":"admin","name":"admin","password":"admin","role":"admin","rollNo":"admin"},"timestamp":"2024-04-19 11:49:10"}
+{"level":"info","message":"---------------------New User Created Successfully---------------------------------------","timestamp":"2024-04-19 11:49:10"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:49:10"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:49:10"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:49:10"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:49:10"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:49:31"}
+{"level":"info","message":{"password":"admin","userEmail":"admin"},"timestamp":"2024-04-19 11:49:31"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-19 11:49:31"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:49:42"}
+{"level":"info","message":{"password":"admin","userEmail":"admin@gmail.com"},"timestamp":"2024-04-19 11:49:42"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 11:49:43"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:49:43"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:49:43"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:49:43"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:49:43"}
+{"level":"info","message":"---------------------Route accessed: //reviewers/--------------------------","timestamp":"2024-04-19 11:49:45"}
+{"level":"info","message":"---------Empty Body-----------------","timestamp":"2024-04-19 11:49:45"}
+{"level":"info","message":"-------------------Successfully Fetched the Reviewers------------------------------------------","timestamp":"2024-04-19 11:49:45"}
+{"level":"info","message":"---------------------Route accessed: //reviewer/19--------------------------","timestamp":"2024-04-19 11:49:52"}
+{"level":"info","message":"-------------UserId: 19---------------------------","timestamp":"2024-04-19 11:49:52"}
+{"level":"info","message":"-------------------Successfully Update the Reviewer Status------------------------------------------","timestamp":"2024-04-19 11:49:52"}
+{"level":"info","message":"---------------------Route accessed: //reviewers/--------------------------","timestamp":"2024-04-19 11:49:52"}
+{"level":"info","message":"---------Empty Body-----------------","timestamp":"2024-04-19 11:49:52"}
+{"level":"info","message":"-------------------Successfully Fetched the Reviewers------------------------------------------","timestamp":"2024-04-19 11:49:52"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:49:57"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:49:57"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:49:57"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:49:57"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:50:21"}
+{"level":"info","message":{"password":"userteacher","userEmail":"userteacher@gmail.com"},"timestamp":"2024-04-19 11:50:21"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 11:50:21"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:21"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:21"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:21"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:21"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:24"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:24"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:24"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:24"}
+{"level":"info","message":"---------------------Route accessed: //project/20--------------------------","timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":"-------ProjectId: 20------------","timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":{"remark":"","status":"APPROVED"},"timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":"-------------------Projects Status Updated Successfully----------------------------","timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:26"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:31"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:31"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:31"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:31"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 11:50:35"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 11:50:35"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:50:35"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 11:50:38"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 11:50:38"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:50:38"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 11:50:41"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 11:50:41"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:50:41"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:43"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:43"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:50:43"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:50:43"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 11:50:47"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 11:50:47"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:50:47"}
+{"level":"info","message":"---------------------Route accessed: //project/13/6--------------------------","timestamp":"2024-04-19 11:50:51"}
+{"level":"info","message":"--------------ProjectId:13----------------------------------","timestamp":"2024-04-19 11:50:51"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:50:51"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 11:50:54"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 11:50:54"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:50:54"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:51:17"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 11:51:17"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 11:51:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:51:17"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:51:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:51:17"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:51:17"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 11:51:19"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 11:51:19"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:51:19"}
+{"level":"info","message":"---------------------Route accessed: //project/rate/20/6/5--------------------------","timestamp":"2024-04-19 11:51:21"}
+{"level":"info","message":{"projectId":"20","rating":"5","userId":"6"},"timestamp":"2024-04-19 11:51:21"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 11:51:22"}
+{"level":"info","message":"---------------------Route accessed: //project/like/20/6--------------------------","timestamp":"2024-04-19 11:51:23"}
+{"level":"info","message":{"projectId":"20","userId":"6"},"timestamp":"2024-04-19 11:51:23"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 11:51:23"}
+{"level":"info","message":"---------------------Route accessed: //project/like/20/6--------------------------","timestamp":"2024-04-19 11:51:26"}
+{"level":"info","message":{"projectId":"20","userId":"6"},"timestamp":"2024-04-19 11:51:26"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 11:51:26"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 11:51:28"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 11:51:28"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:51:28"}
+{"level":"info","message":"---------------------Route accessed: //project/like/15/6--------------------------","timestamp":"2024-04-19 11:51:30"}
+{"level":"info","message":{"projectId":"15","userId":"6"},"timestamp":"2024-04-19 11:51:30"}
+{"level":"error","message":"-----------------Error liking project: User has already liked the post.---------------------------","timestamp":"2024-04-19 11:51:30"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 11:51:30"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 11:51:30"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 11:51:30"}
+{"level":"info","message":"---------------------Route accessed: //project/like/18/6--------------------------","timestamp":"2024-04-19 11:51:32"}
+{"level":"info","message":{"projectId":"18","userId":"6"},"timestamp":"2024-04-19 11:51:32"}
+{"level":"info","message":"-------------------Projects Liked Successfully----------------------------","timestamp":"2024-04-19 11:51:32"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:51:34"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:51:34"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 11:51:36"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 11:51:36"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 11:51:36"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 11:51:36"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 11:51:36"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 11:51:36"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 11:54:22"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 11:54:22"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 11:54:22"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 11:54:22"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 11:54:22"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 11:54:26"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 11:54:26"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 11:54:26"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:01:22"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:01:22"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:01:22"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:01:22"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:01:23"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:01:52"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:01:52"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:01:52"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:01:52"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:01:52"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:01:54"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:01:54"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:01:54"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:02:54"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:02:54"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:02:55"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:02:55"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:02:55"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:02:57"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:02:57"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:02:57"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:03:28"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:03:28"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:03:28"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:03:29"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:03:29"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:03:30"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:03:30"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:03:30"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:04:33"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:04:33"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:04:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:04:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:04:33"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:04:39"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:04:39"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:04:39"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:08:42"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:08:42"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:08:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:08:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:08:42"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:08:45"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:08:45"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:08:45"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:09:23"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:09:23"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:09:23"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:09:23"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:09:23"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:09:26"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:09:26"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:09:26"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:12:37"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:12:37"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:12:37"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:12:37"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:12:37"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:12:39"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:12:39"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:12:39"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:19:43"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:19:43"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:19:43"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:19:43"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:19:43"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:19:45"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:19:45"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:19:45"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:20:40"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:20:40"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:20:40"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:20:41"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:20:41"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:20:42"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:20:42"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:20:42"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:21:21"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:21:21"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:21:22"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:22:13"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:22:13"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:22:13"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:23:01"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:23:01"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:23:01"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:23:56"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:23:56"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:23:56"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:26:06"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:26:06"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:26:06"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:27:19"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:27:19"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:27:19"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:27:34"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:27:34"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:27:34"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:27:35"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:27:35"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:27:35"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:28:58"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:28:58"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:28:58"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:29:00"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:29:00"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:29:00"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:29:29"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:29:29"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:29:29"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:29:31"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:29:31"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:29:31"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:29:47"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:29:47"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:29:47"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:30:20"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:30:20"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:30:20"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:30:28"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:30:28"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:30:28"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:30:53"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:30:53"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:30:53"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:30:54"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:30:54"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:30:54"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:31:50"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:31:50"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:31:50"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 12:36:42"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 12:36:42"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 12:36:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 12:36:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 12:36:42"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 12:36:46"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 12:36:46"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 12:36:46"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:00:52"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:00:52"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 13:00:58"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 13:00:58"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 13:00:58"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 13:00:58"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 13:00:58"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 13:00:58"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 13:01:04"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 13:01:04"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:04"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 13:01:06"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 13:01:06"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:06"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:01:10"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:01:10"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 13:01:14"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 13:01:14"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:14"}
+{"level":"info","message":"---------------------Route accessed: //project/19/6--------------------------","timestamp":"2024-04-19 13:01:18"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 13:01:18"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:18"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:01:21"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:01:21"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:01:21"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:01:21"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 13:01:23"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 13:01:23"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:24"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:01:27"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:01:27"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:01:27"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:01:27"}
+{"level":"info","message":"---------------------Route accessed: //project/3/6--------------------------","timestamp":"2024-04-19 13:01:34"}
+{"level":"info","message":"--------------ProjectId:3----------------------------------","timestamp":"2024-04-19 13:01:34"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:34"}
+{"level":"info","message":"---------------------Route accessed: //project/1/6--------------------------","timestamp":"2024-04-19 13:01:37"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-19 13:01:37"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:37"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:01:40"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:01:40"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 13:01:42"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 13:01:42"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:01:42"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 13:02:16"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 13:02:16"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 13:02:16"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:02:16"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:02:16"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:02:16"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:02:16"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 13:02:21"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 13:02:21"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:02:21"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 13:02:25"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 13:02:25"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:02:25"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:02:27"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:02:27"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 13:02:29"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 13:02:29"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:02:29"}
+{"level":"info","message":"---------------------Route accessed: //project/19/6--------------------------","timestamp":"2024-04-19 13:02:31"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 13:02:31"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:02:31"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:05:46"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:05:46"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 13:10:20"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 13:10:20"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 13:10:20"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:10:20"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:10:20"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:10:20"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:10:20"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 13:10:24"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 13:10:24"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:10:24"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:10:28"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:10:28"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 13:10:31"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 13:10:31"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 13:10:31"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 13:10:31"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 13:10:31"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 13:10:31"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 13:10:34"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 13:10:34"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 13:10:34"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:31:29"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:31:29"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 13:37:50"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 13:37:50"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 13:37:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:37:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:37:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:37:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:37:51"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 13:37:55"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 13:37:55"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 13:37:55"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:37:56"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:37:56"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 13:37:58"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 13:37:58"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 13:37:58"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 13:40:35"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 13:40:35"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 13:40:35"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:40:35"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:40:36"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 13:40:39"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 13:40:39"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 13:40:39"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 13:48:39"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 13:48:39"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 13:48:40"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 13:48:40"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 13:48:40"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 13:48:42"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 13:48:42"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 13:48:42"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 14:00:14"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 14:00:14"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 14:00:15"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:00:15"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:00:15"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:00:18"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:00:18"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:00:18"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 14:03:07"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 14:03:07"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 14:03:07"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:03:08"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:03:08"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:03:09"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:03:09"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:03:09"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 14:06:51"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 14:06:51"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 14:06:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:06:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:06:52"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:06:53"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:06:53"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:06:53"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:08:31"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:08:31"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:08:32"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 14:09:17"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 14:09:17"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 14:09:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:09:18"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:09:18"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:09:20"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:09:20"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:09:20"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:09:36"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:09:36"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:09:37"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:09:50"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:09:50"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:09:51"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:10:09"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:10:09"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:10:09"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 14:13:03"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 14:13:03"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:13:03"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:19:13"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:19:13"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 14:19:18"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 14:19:18"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:19:18"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 14:19:22"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 14:19:22"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:19:22"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 14:20:28"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 14:20:28"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:28"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 14:20:30"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 14:20:30"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:30"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:20:34"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:20:34"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 14:20:38"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 14:20:38"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:38"}
+{"level":"info","message":"---------------------Route accessed: //project/14/6--------------------------","timestamp":"2024-04-19 14:20:39"}
+{"level":"info","message":"--------------ProjectId:14----------------------------------","timestamp":"2024-04-19 14:20:39"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:20:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:20:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:20:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:20:42"}
+{"level":"info","message":"---------------------Route accessed: //project/1/6--------------------------","timestamp":"2024-04-19 14:20:44"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-19 14:20:44"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:44"}
+{"level":"info","message":"---------------------Route accessed: //project/19/6--------------------------","timestamp":"2024-04-19 14:20:47"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 14:20:47"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:47"}
+{"level":"info","message":"---------------------Route accessed: //project/17/6--------------------------","timestamp":"2024-04-19 14:20:50"}
+{"level":"info","message":"--------------ProjectId:17----------------------------------","timestamp":"2024-04-19 14:20:50"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:50"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 14:20:53"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 14:20:53"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 14:20:53"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 14:20:53"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 14:20:53"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 14:20:53"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 14:20:57"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 14:20:57"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:20:57"}
+{"level":"info","message":"---------------------Route accessed: //project/2/6--------------------------","timestamp":"2024-04-19 14:20:59"}
+{"level":"info","message":"--------------ProjectId:2----------------------------------","timestamp":"2024-04-19 14:20:59"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 14:20:59"}
+{"level":"info","message":"---------------------Route accessed: //user/5--------------------------","timestamp":"2024-04-19 14:20:59"}
+{"level":"info","message":"----------userRollNo: 5---------------------","timestamp":"2024-04-19 14:20:59"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 14:20:59"}
+{"level":"info","message":"---------------------Route accessed: //project/1/6--------------------------","timestamp":"2024-04-19 14:21:04"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-19 14:21:04"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:04"}
+{"level":"info","message":"---------------------Route accessed: //project/19/6--------------------------","timestamp":"2024-04-19 14:21:07"}
+{"level":"info","message":"--------------ProjectId:19----------------------------------","timestamp":"2024-04-19 14:21:07"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:07"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 14:21:09"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 14:21:09"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:09"}
+{"level":"info","message":"---------------------Route accessed: //project/1/6--------------------------","timestamp":"2024-04-19 14:21:12"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-19 14:21:12"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:12"}
+{"level":"info","message":"---------------------Route accessed: //project/14/6--------------------------","timestamp":"2024-04-19 14:21:16"}
+{"level":"info","message":"--------------ProjectId:14----------------------------------","timestamp":"2024-04-19 14:21:16"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:16"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 14:21:20"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 14:21:20"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 14:21:20"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 14:21:20"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 14:21:20"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 14:21:20"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 14:21:24"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 14:21:24"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:24"}
+{"level":"info","message":"---------------------Route accessed: //project/13/6--------------------------","timestamp":"2024-04-19 14:21:28"}
+{"level":"info","message":"--------------ProjectId:13----------------------------------","timestamp":"2024-04-19 14:21:28"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:28"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 14:21:31"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 14:21:31"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:31"}
+{"level":"info","message":"---------------------Route accessed: //project/1/6--------------------------","timestamp":"2024-04-19 14:21:34"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-19 14:21:34"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:34"}
+{"level":"info","message":"---------------------Route accessed: //project/2/6--------------------------","timestamp":"2024-04-19 14:21:37"}
+{"level":"info","message":"--------------ProjectId:2----------------------------------","timestamp":"2024-04-19 14:21:37"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 14:21:37"}
+{"level":"info","message":"---------------------Route accessed: //user/5--------------------------","timestamp":"2024-04-19 14:21:37"}
+{"level":"info","message":"----------userRollNo: 5---------------------","timestamp":"2024-04-19 14:21:37"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 14:21:37"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 14:21:40"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 14:21:40"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:40"}
+{"level":"info","message":"---------------------Route accessed: //project/3/6--------------------------","timestamp":"2024-04-19 14:21:42"}
+{"level":"info","message":"--------------ProjectId:3----------------------------------","timestamp":"2024-04-19 14:21:42"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:21:48"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:21:48"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:21:48"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:21:48"}
+{"level":"info","message":"---------------------Route accessed: //project/1/6--------------------------","timestamp":"2024-04-19 14:21:52"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-19 14:21:52"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:21:52"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 14:21:55"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 14:21:55"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 14:21:55"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 14:21:55"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 14:21:55"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 14:21:55"}
+{"level":"info","message":"---------------------Route accessed: //project/2/6--------------------------","timestamp":"2024-04-19 14:21:58"}
+{"level":"info","message":"--------------ProjectId:2----------------------------------","timestamp":"2024-04-19 14:21:58"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 14:21:58"}
+{"level":"info","message":"---------------------Route accessed: //user/5--------------------------","timestamp":"2024-04-19 14:21:58"}
+{"level":"info","message":"----------userRollNo: 5---------------------","timestamp":"2024-04-19 14:21:58"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 14:21:58"}
+{"level":"info","message":"---------------------Route accessed: //project/18/6--------------------------","timestamp":"2024-04-19 14:22:01"}
+{"level":"info","message":"--------------ProjectId:18----------------------------------","timestamp":"2024-04-19 14:22:01"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:22:01"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 14:22:04"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 14:22:04"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:22:04"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:22:16"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:22:16"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:22:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:22:18"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:22:18"}
+{"level":"info","message":"---------------------Route accessed: //project/20/6--------------------------","timestamp":"2024-04-19 14:22:25"}
+{"level":"info","message":"--------------ProjectId:20----------------------------------","timestamp":"2024-04-19 14:22:25"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-19 14:22:25"}
+{"level":"info","message":"---------------------Route accessed: //user/6--------------------------","timestamp":"2024-04-19 14:22:25"}
+{"level":"info","message":"----------userRollNo: 6---------------------","timestamp":"2024-04-19 14:22:25"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-19 14:22:25"}
+{"level":"info","message":"---------------------Route accessed: //project/15/6--------------------------","timestamp":"2024-04-19 14:22:27"}
+{"level":"info","message":"--------------ProjectId:15----------------------------------","timestamp":"2024-04-19 14:22:27"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:22:27"}
+{"level":"info","message":"---------------------Route accessed: //project/13/6--------------------------","timestamp":"2024-04-19 14:22:31"}
+{"level":"info","message":"--------------ProjectId:13----------------------------------","timestamp":"2024-04-19 14:22:31"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:22:31"}
+{"level":"info","message":"---------------------Route accessed: //project/14/6--------------------------","timestamp":"2024-04-19 14:22:34"}
+{"level":"info","message":"--------------ProjectId:14----------------------------------","timestamp":"2024-04-19 14:22:34"}
+{"level":"error","message":"-----------------Error fetching given project, message: Cannot read properties of undefined (reading 'rating')-------------------","timestamp":"2024-04-19 14:22:34"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:22:41"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:22:41"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:22:41"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-19 14:23:50"}
+{"level":"info","message":{"password":"123","userEmail":"test12@gmail.com"},"timestamp":"2024-04-19 14:23:50"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-19 14:23:50"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-19 14:23:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-19 14:23:51"}
+{"level":"info","message":"---------------------Route accessed: //projects/6--------------------------","timestamp":"2024-04-19 14:23:53"}
+{"level":"info","message":"-------USerId: 6------------","timestamp":"2024-04-19 14:23:53"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-19 14:23:53"}

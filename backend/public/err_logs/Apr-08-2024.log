@@ -1,0 +1,10 @@
+{"level":"error","message":"---------------------Error sending otp:, connect ETIMEDOUT 64.233.170.108:487------------------------------------","timestamp":"2024-04-08 10:55:55"}
+{"level":"error","message":"---------------------Error sending otp:, res is not defined------------------------------------","timestamp":"2024-04-08 11:22:58"}
+{"level":"error","message":"---------------------Error sending otp:, Invalid value { otp: '763331' }------------------------------------","timestamp":"2024-04-08 12:09:37"}
+{"level":"error","message":"---------------------Error sending otp:, Cannot access 'params' before initialization------------------------------------","timestamp":"2024-04-08 12:10:35"}
+{"level":"error","message":"---------------------Error changing password:, OTP mismatch------------------------------------","timestamp":"2024-04-08 12:19:18"}
+{"level":"error","message":"---------------------Error changing password:, OTP mismatch------------------------------------","timestamp":"2024-04-08 12:19:30"}
+{"level":"error","message":"---------------------Error changing password:, OTP mismatch------------------------------------","timestamp":"2024-04-08 14:07:45"}
+{"level":"error","message":"---------------------Error Logging the User--Require Permission from admin for login---------------------------","timestamp":"2024-04-08 20:41:15"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-08 21:01:58"}
+{"level":"error","message":"---------------------Error changing password:, OTP mismatch------------------------------------","timestamp":"2024-04-08 21:06:02"}

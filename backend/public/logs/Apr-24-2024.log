@@ -1,0 +1,202 @@
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:25:12"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:25:12"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:25:13"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:25:13"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:25:13"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:25:13"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:25:13"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:25:13"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:25:13"}
+{"level":"info","message":"---------------------Route accessed: //projects/1--------------------------","timestamp":"2024-04-24 14:25:24"}
+{"level":"info","message":"-------USerId: 1------------","timestamp":"2024-04-24 14:25:24"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:25:24"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:26:10"}
+{"level":"info","message":{"password":"1234","userEmail":"reviewer1expohub@gmail.com"},"timestamp":"2024-04-24 14:26:10"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-24 14:26:10"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:26:23"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:26:23"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:26:23"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:26:23"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:26:23"}
+{"level":"info","message":"---------------------Route accessed: //projects/1--------------------------","timestamp":"2024-04-24 14:26:26"}
+{"level":"info","message":"-------USerId: 1------------","timestamp":"2024-04-24 14:26:26"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:26:26"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:26:47"}
+{"level":"info","message":{"password":"1234","userEmail":"admin1expohub@gmail.com"},"timestamp":"2024-04-24 14:26:47"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-24 14:26:47"}
+{"level":"info","message":"---------------------Route accessed: //user--------------------------","timestamp":"2024-04-24 14:27:33"}
+{"level":"info","message":{"confirmPassword":"1234","email":"v@gmail.com","firstname":"vishnu","lastname":"priya","name":"vp","password":"1234","role":"student","rollNo":"vk1744"},"timestamp":"2024-04-24 14:27:33"}
+{"level":"info","message":"---------------------New User Created Successfully---------------------------------------","timestamp":"2024-04-24 14:27:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:27:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:27:33"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:27:43"}
+{"level":"info","message":{"password":"1234","userEmail":"v@gmail.com"},"timestamp":"2024-04-24 14:27:43"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:27:43"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:27:43"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:27:43"}
+{"level":"info","message":"---------------------Route accessed: //projects/2--------------------------","timestamp":"2024-04-24 14:27:44"}
+{"level":"info","message":"-------USerId: 2------------","timestamp":"2024-04-24 14:27:44"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:27:44"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-24 14:28:15"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-24 14:28:21"}
+{"level":"info","message":"---------------------Route accessed: //project--------------------------","timestamp":"2024-04-24 14:28:22"}
+{"level":"info","message":{"abstractUrl":"https://my-bucket-pg.s3.amazonaws.com/dummy%20%281%29%20%283%29.pdf","createdAt":null,"dateOfSubmission":"24-04-2024","projectAssetUrl":"https://my-bucket-pg.s3.amazonaws.com/sample-5s.mp4","projectDescription":"sample Please use the command above without the double dash (--) before the r option. This command will recursively delete the node_modules directory and all its contents. Here's the corrected command:","projectName":"sample","submittedBy":"vp","userId":"2"},"timestamp":"2024-04-24 14:28:22"}
+{"level":"info","message":"-------------------Successfully Created the Project----------------------------","timestamp":"2024-04-24 14:28:22"}
+{"level":"info","message":"---------------------Route accessed: //projects/2--------------------------","timestamp":"2024-04-24 14:28:26"}
+{"level":"info","message":"-------USerId: 2------------","timestamp":"2024-04-24 14:28:26"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:28:26"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:28:45"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:28:45"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:28:45"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:28:46"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:28:46"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:28:46"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:28:46"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:28:46"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:28:46"}
+{"level":"info","message":"---------------------Route accessed: //projects/1--------------------------","timestamp":"2024-04-24 14:28:58"}
+{"level":"info","message":"-------USerId: 1------------","timestamp":"2024-04-24 14:28:59"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:28:59"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:29:23"}
+{"level":"info","message":{"password":"1234","userEmail":"reviewer1expohub@gmail.com"},"timestamp":"2024-04-24 14:29:23"}
+{"level":"error","message":"---------------------Error Logging the User--Username or password is incorrect---------------------------","timestamp":"2024-04-24 14:29:23"}
+{"level":"info","message":"---------------------Route accessed: //user--------------------------","timestamp":"2024-04-24 14:30:20"}
+{"level":"info","message":{"confirmPassword":"1234","email":"reviewer1expohub@gmail.com","firstname":"reviewer","lastname":"1","name":"reviewer","password":"1234","role":"reviewer","rollNo":"rv1744"},"timestamp":"2024-04-24 14:30:20"}
+{"level":"info","message":"---------------------New User Created Successfully---------------------------------------","timestamp":"2024-04-24 14:30:20"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:30:20"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:30:20"}
+{"level":"info","message":"---------------------Route accessed: //user--------------------------","timestamp":"2024-04-24 14:30:51"}
+{"level":"info","message":{"confirmPassword":"1234","email":"admin1expohub@gmail.com","firstname":"admin","lastname":"1","name":"admin1744","password":"1234","role":"admin","rollNo":"ad1744"},"timestamp":"2024-04-24 14:30:51"}
+{"level":"info","message":"---------------------New User Created Successfully---------------------------------------","timestamp":"2024-04-24 14:30:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:30:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:30:51"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:30:57"}
+{"level":"info","message":{"password":"1234","userEmail":"admin1expohub@gmail.com"},"timestamp":"2024-04-24 14:30:57"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:30:57"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:30:57"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:30:57"}
+{"level":"info","message":"---------------------Route accessed: //reviewers/--------------------------","timestamp":"2024-04-24 14:30:59"}
+{"level":"info","message":"---------Empty Body-----------------","timestamp":"2024-04-24 14:30:59"}
+{"level":"info","message":"-------------------Successfully Fetched the Reviewers------------------------------------------","timestamp":"2024-04-24 14:30:59"}
+{"level":"info","message":"---------------------Route accessed: //reviewer/3--------------------------","timestamp":"2024-04-24 14:31:01"}
+{"level":"info","message":"-------------UserId: 3---------------------------","timestamp":"2024-04-24 14:31:01"}
+{"level":"info","message":"-------------------Successfully Update the Reviewer Status------------------------------------------","timestamp":"2024-04-24 14:31:01"}
+{"level":"info","message":"---------------------Route accessed: //reviewers/--------------------------","timestamp":"2024-04-24 14:31:01"}
+{"level":"info","message":"---------Empty Body-----------------","timestamp":"2024-04-24 14:31:01"}
+{"level":"info","message":"-------------------Successfully Fetched the Reviewers------------------------------------------","timestamp":"2024-04-24 14:31:01"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:31:17"}
+{"level":"info","message":{"password":"1234","userEmail":"reviewer1expohub@gmail.com"},"timestamp":"2024-04-24 14:31:17"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:31:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:17"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:19"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:19"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:19"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:19"}
+{"level":"info","message":"---------------------Route accessed: //project/2/3--------------------------","timestamp":"2024-04-24 14:31:21"}
+{"level":"info","message":"--------------ProjectId:2----------------------------------","timestamp":"2024-04-24 14:31:21"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-24 14:31:21"}
+{"level":"info","message":"---------------------Route accessed: //user/2--------------------------","timestamp":"2024-04-24 14:31:21"}
+{"level":"info","message":"----------userRollNo: 2---------------------","timestamp":"2024-04-24 14:31:21"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-24 14:31:21"}
+{"level":"info","message":"---------------------Route accessed: //project/2--------------------------","timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":"-------ProjectId: 2------------","timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":{"remark":"","status":"APPROVED"},"timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":"-------------------Projects Status Updated Successfully----------------------------","timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:25"}
+{"level":"info","message":"---------------------Route accessed: //project/1--------------------------","timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":"-------ProjectId: 1------------","timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":{"remark":"","status":"REJECTED"},"timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":"-------------------Projects Status Updated Successfully----------------------------","timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:27"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:30"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:30"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:31:53"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:36:39"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:40:57"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:40:57"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:40:57"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:40:58"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:40:58"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:40:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:40:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:40:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:40:58"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:43:44"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:43:44"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:43:44"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:43:44"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:43:57"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:43:57"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:44:10"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:44:10"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:44:10"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:44:10"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:44:10"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:44:12"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:44:12"}
+{"level":"info","message":"---------------------Route accessed: //projects/1--------------------------","timestamp":"2024-04-24 14:44:13"}
+{"level":"info","message":"-------USerId: 1------------","timestamp":"2024-04-24 14:44:13"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:44:13"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-24 14:44:49"}
+{"level":"info","message":"---------------------Route accessed: //file/upload--------------------------","timestamp":"2024-04-24 14:44:49"}
+{"level":"info","message":"---------------------Route accessed: //project--------------------------","timestamp":"2024-04-24 14:44:50"}
+{"level":"info","message":{"abstractUrl":"https://my-bucket-pg.s3.amazonaws.com/dummy%20%281%29%20%283%29.pdf","createdAt":null,"dateOfSubmission":"24-04-2024","projectAssetUrl":"https://my-bucket-pg.s3.amazonaws.com/gradding-app.jpeg","projectDescription":"blackboard blackboard blackboard blackboard blackboard blackboard blackboard blackboard blackboard blackboard blackboard blackboard blackboard blackboard ","projectName":"blackboard","submittedBy":"sg","userId":"1"},"timestamp":"2024-04-24 14:44:50"}
+{"level":"info","message":"-------------------Successfully Created the Project----------------------------","timestamp":"2024-04-24 14:44:50"}
+{"level":"info","message":"---------------------Route accessed: //projects/1--------------------------","timestamp":"2024-04-24 14:44:53"}
+{"level":"info","message":"-------USerId: 1------------","timestamp":"2024-04-24 14:44:53"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:44:53"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:44:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:44:58"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:44:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:44:58"}
+{"level":"info","message":"---------------------Route accessed: //project/3--------------------------","timestamp":"2024-04-24 14:45:02"}
+{"level":"info","message":"-------ProjectId: 3------------","timestamp":"2024-04-24 14:45:02"}
+{"level":"info","message":{"remark":"good","status":"APPROVED"},"timestamp":"2024-04-24 14:45:02"}
+{"level":"info","message":"-------------------Projects Status Updated Successfully----------------------------","timestamp":"2024-04-24 14:45:03"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:45:03"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:45:03"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:45:03"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:45:03"}
+{"level":"info","message":"---------------------Route accessed: //projects/1--------------------------","timestamp":"2024-04-24 14:45:06"}
+{"level":"info","message":"-------USerId: 1------------","timestamp":"2024-04-24 14:45:06"}
+{"level":"info","message":"-------------------Projects Fetched Successfully----------------------------","timestamp":"2024-04-24 14:45:06"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":{"password":"1234","userEmail":"galla.sathvika123@gmail.com"},"timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:45:31"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-24 14:45:53"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-24 14:45:53"}
+{"level":"info","message":"---------------------Route accessed: //project/3/3--------------------------","timestamp":"2024-04-24 14:45:54"}
+{"level":"info","message":"--------------ProjectId:3----------------------------------","timestamp":"2024-04-24 14:45:54"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-24 14:45:54"}
+{"level":"info","message":"---------------------Route accessed: //user/1--------------------------","timestamp":"2024-04-24 14:45:54"}
+{"level":"info","message":"----------userRollNo: 1---------------------","timestamp":"2024-04-24 14:45:54"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-24 14:45:54"}

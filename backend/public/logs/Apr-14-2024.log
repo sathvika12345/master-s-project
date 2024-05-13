@@ -1,0 +1,292 @@
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:27:34"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:27:34"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:30:36"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:30:36"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:30:37"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:32:39"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:32:39"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:32:40"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:32:40"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:32:40"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:34:56"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:34:56"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:34:56"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:34:56"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:34:57"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:35:24"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:35:24"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:35:25"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:35:25"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:35:25"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:36:55"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:36:55"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:36:55"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:36:55"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:36:55"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:41:49"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:41:49"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:41:49"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:41:49"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:41:50"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:42:53"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:42:53"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:42:54"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:42:54"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:42:54"}
+{"level":"info","message":"---------------------Route accessed: //project/1--------------------------","timestamp":"2024-04-14 12:43:00"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-14 12:43:00"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-14 12:43:00"}
+{"level":"info","message":"---------------------Route accessed: //user/2--------------------------","timestamp":"2024-04-14 12:43:00"}
+{"level":"info","message":"----------userRollNo: 2---------------------","timestamp":"2024-04-14 12:43:00"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-14 12:43:00"}
+{"level":"info","message":"---------------------Route accessed: //project/1--------------------------","timestamp":"2024-04-14 12:43:03"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-14 12:43:03"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-14 12:43:03"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:43:09"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:43:09"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 12:52:36"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 12:52:36"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 12:52:36"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 12:52:36"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 12:52:36"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:00:06"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:00:06"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:00:06"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:01:33"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:01:33"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:01:34"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:01:34"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:01:34"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:03:06"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:03:06"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:03:07"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:03:07"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:03:07"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:03:18"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:03:18"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:03:18"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:03:18"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:03:18"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:05:51"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:05:51"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:05:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:05:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:05:51"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:07:51"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:07:51"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:07:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:07:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:07:51"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:09:41"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:09:41"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:09:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:09:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:09:42"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:10:15"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:10:15"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:10:15"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:10:15"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:10:15"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:14:09"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:14:09"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:14:09"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:14:09"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:14:09"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:18:18"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:18:18"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:18:18"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:18:18"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:18:18"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:22:18"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:22:18"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:22:18"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:22:18"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:22:18"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:22:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:22:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:26:55"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:26:56"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:29:50"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:29:50"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:29:50"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:29:50"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:29:50"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:35:01"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:35:01"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:35:01"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:35:02"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:35:02"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:47:22"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:47:22"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:47:22"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:47:22"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:47:23"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:48:49"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:48:49"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:48:50"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:48:50"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:48:50"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:49:44"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:49:44"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:49:45"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:49:45"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:49:45"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 13:52:33"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 13:52:33"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 13:52:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 13:52:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 13:52:34"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:00:09"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:00:09"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:00:09"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:00:09"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:00:09"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:01:57"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:01:57"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:01:57"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:01:58"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:01:58"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:04:32"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:04:32"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:04:33"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:04:33"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:04:33"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:07:00"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:07:00"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:07:00"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:07:01"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:07:01"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:07:16"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:07:16"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:07:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:07:17"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:07:17"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:07:44"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:07:44"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:07:45"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:07:45"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:07:45"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:08:00"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:08:00"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:10:22"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:10:22"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:10:22"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:10:23"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:10:23"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:11:05"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:11:05"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:11:06"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:11:06"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:11:06"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:17:01"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:17:01"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:17:02"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 14:17:41"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 14:17:41"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 14:17:41"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 14:17:41"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 14:17:41"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:35:37"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:35:37"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:35:38"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:35:38"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:35:38"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:38:50"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:38:50"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:38:50"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:38:50"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:38:50"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:42:59"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:42:59"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:42:59"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:42:59"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:42:59"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:50:43"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:50:43"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:50:44"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:50:44"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:50:44"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:51:48"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:51:48"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:51:48"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:51:48"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:51:48"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:53:17"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:53:17"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:53:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:53:17"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:53:17"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:53:44"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:53:44"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:53:44"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:53:44"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:53:44"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:54:01"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:54:01"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:54:02"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:54:02"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:54:02"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 20:57:19"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 20:57:19"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 20:57:19"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 20:57:20"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 20:57:20"}
+{"level":"info","message":"---------------------Route accessed: //project/1--------------------------","timestamp":"2024-04-14 20:57:30"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-14 20:57:30"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-14 20:57:30"}
+{"level":"info","message":"---------------------Route accessed: //user/2--------------------------","timestamp":"2024-04-14 20:57:30"}
+{"level":"info","message":"----------userRollNo: 2---------------------","timestamp":"2024-04-14 20:57:30"}
+{"level":"info","message":"-------------------Successfully Fetched the USer------------------------------------------","timestamp":"2024-04-14 20:57:30"}
+{"level":"info","message":"---------------------Route accessed: //project/1--------------------------","timestamp":"2024-04-14 20:57:35"}
+{"level":"info","message":"--------------ProjectId:1----------------------------------","timestamp":"2024-04-14 20:57:35"}
+{"level":"info","message":"-------------------Project found Successfully----------------------------","timestamp":"2024-04-14 20:57:35"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 21:05:36"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 21:05:37"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 21:06:05"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 21:06:05"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 21:06:05"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 21:16:55"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 21:16:55"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 21:16:55"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 21:16:55"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 21:16:55"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 21:25:42"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 21:25:42"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 21:25:42"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 21:25:42"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 21:25:42"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 21:26:33"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 21:26:33"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 21:26:34"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 21:26:34"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 21:26:34"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 21:53:16"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 21:53:16"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 21:53:17"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 21:53:17"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 21:53:17"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 21:55:26"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 21:55:26"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 21:55:26"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 21:55:26"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 21:55:27"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 22:06:36"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 22:06:36"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 22:06:36"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 22:06:36"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 22:06:36"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 22:08:18"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 22:08:18"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 22:08:19"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 22:08:19"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 22:08:19"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 22:14:50"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 22:14:50"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 22:14:51"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 22:14:51"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 22:14:51"}
+{"level":"info","message":"---------------------Route accessed: //login--------------------------","timestamp":"2024-04-14 22:17:05"}
+{"level":"info","message":{"password":"admin","userEmail":"student@mailinator.com"},"timestamp":"2024-04-14 22:17:05"}
+{"level":"info","message":"--------------------------Logged In Successfully---------------------------------","timestamp":"2024-04-14 22:17:05"}
+{"level":"info","message":"---------------------Route accessed: //projects--------------------------","timestamp":"2024-04-14 22:17:05"}
+{"level":"info","message":"-------------------Projects fetched Successfully----------------------------","timestamp":"2024-04-14 22:17:05"}
