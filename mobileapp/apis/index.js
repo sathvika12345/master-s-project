@@ -2,7 +2,7 @@ import axios from 'axios';
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
 const API = axios.create({
-  baseURL: 'http://localhost:3001', // Update this URL with your backend URL
+  baseURL: 'http://3.85.54.30:3001', // Update this URL with your backend URL
 });
 
 // Add interceptors for token verification
